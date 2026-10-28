@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4f46e5,100:a78bfa&height=260&section=header&text=SALES%20%26%20PROFIT&fontSize=52&fontColor=ffffff&stroke=1e1b4b&strokeWidth=1&animation=twinkling&fontAlignY=36&desc=Excel%20Dashboard%20%7C%20Pivots%20%7C%20Lookups%20%7C%20Interactive%20Filters&descAlignY=58&descSize=19" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com/?lines=Sales+%26+Profit+Interactive+Dashboard;6+Sheets+%E2%80%A2+9%2C994+Orders+%E2%80%A2+0+Macros;Pivots+%7C+Lookups+%7C+Charts+%7C+Dynamic+Filters;Pick+a+filter+%E2%80%94+every+KPI+and+chart+refreshes;Sales+%E2%80%A2+Profit+%E2%80%A2+Regions+%E2%80%A2+Categories&font=Fira+Code&center=true&width=700&height=45&color=4F46E5&vCenter=true&size=22&pause=1200"/>
 
 <br/>
@@ -24,7 +22,9 @@
 
 Everything is **formula-driven with zero macros**. Pick a **Region, Category, Segment or Year** from a dropdown and every KPI and chart updates instantly.
 
-<img width="3200" height="1800" alt="project_overview (3)" src="https://github.com/user-attachments/assets/7cddfeff-0d23-4bd1-a0d1-2f52e2f5d0a7" />
+> 📸 **Dashboard preview:** add your screenshot here
+>
+> `![Dashboard](screenshots/dashboard.png)`
 
 <br/>
 
