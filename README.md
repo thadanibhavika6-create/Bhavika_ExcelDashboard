@@ -22,9 +22,7 @@
 
 Everything is **formula-driven with zero macros**. Pick a **Region, Category, Segment or Year** from a dropdown and every KPI and chart updates instantly.
 
-> 📸 **Dashboard preview:** add your screenshot here
->
-> `![Dashboard](screenshots/dashboard.png)`
+<img width="3200" height="1800" alt="project_overview (3)" src="https://github.com/user-attachments/assets/5d68d74a-d9de-4d70-9970-dac4da3c5664" />
 
 <br/>
 
